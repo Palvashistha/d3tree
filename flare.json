@@ -1,0 +1,48 @@
+{
+            "name": "BU Head",
+            "children": [
+              {
+                  "name": "Manager 1",
+                  "children": [
+                    {
+                        "name": "Team Lead 1",
+                         "children": []
+                    },
+                    {
+                        "name": "Team Lead 2",
+                        "children": []
+                    }
+                  ]
+              },
+			  {
+                  "name": "Manager 2",
+                  "children": [
+                    {
+                        "name": "Team Lead 3",
+                         "children": []
+                    },
+                    {
+                        "name": "Team Lead 4",
+                        "children": []
+                    }
+                  ]
+              },
+			  {
+                  "name": "Manager 3",
+                  "children": [
+                    {
+                        "name": "Team Lead 5",
+                         "children": []
+                    },
+                    {
+                        "name": "Team Lead 6",
+                        "children": []
+                    }
+                  ]
+              },
+              {
+                  "name": "Manager 4",
+                  "children": []
+              }
+            ]
+        }
